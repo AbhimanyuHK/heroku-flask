@@ -1,5 +1,16 @@
 # Heroku Flask Setup
 
+## Run & setup 
+
+### Linux
+
+`$ heroku_flask.sh`
+
+### Windows
+
+`$ heroku_flask.bat`
+
+
 ## Creating List Of Files
 
 * Procfile
